@@ -1,0 +1,23 @@
+{
+  "name": "bower-sandbox",
+  "version": "0.0.1",
+  "authors": [
+    "Marcus Malcom <users.noreply.github.com>"
+  ],
+  "description": "Playground for bower shared stuff",
+  "main": "bower-test.css bower-test.js",
+  "keywords": [
+    "bower",
+    "sandbox",
+    "test",
+    "mirth"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
